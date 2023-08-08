@@ -6,8 +6,7 @@ The dataset originates from [Kaggle](https://www.kaggle.com/datasets/neuromusic/
 <h3> Quick Links </h3> 
 
 Data Source: [Avocado Prices](https://www.kaggle.com/datasets/neuromusic/avocado-prices)  
-SQL Queries:
-.  
+SQL Queries: [Data Exploration](https://github.com/discobuggie/Avocado-Dataset-Analysis/blob/main/1.%20Data_Exploration.sql), [Data Cleaning](https://github.com/discobuggie/Avocado-Dataset-Analysis/blob/main/2.%20Data_Cleaning.sql), [Data Analysis](https://github.com/discobuggie/Avocado-Dataset-Analysis/blob/main/3.%20Data_analysis.sql)  
 Data Visualization: [Tableau](https://public.tableau.com/views/AvocadoMarketTrendAnalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)  
 
 # Ask
@@ -49,7 +48,8 @@ The data has already been combined and comprises of 1 file with 18249 observatio
 For cleaning and exploring the dataset, BigQiery is the chosen platform.
 
 <h3> Data Organization </h3>  
-SQL Query:  
+
+SQL Query: [Data Exploration](https://github.com/discobuggie/Avocado-Dataset-Analysis/blob/main/1.%20Data_Exploration.sql)  
 Reviewing the data to identify and understand any inconsistencies present.  
 
 Findings and Observations:  
@@ -72,12 +72,12 @@ Findings and Observations:
 
 <h3>Data Cleaning</h3>
 
-SQL Query: Data Cleaning
+SQL Query: [Data Cleaning](https://github.com/discobuggie/Avocado-Dataset-Analysis/blob/main/2.%20Data_Cleaning.sql)
 
 &nbsp; 1. The column **int64_field_0** has been removed.
 
 # Analyze and Share  
-SQL Query:  
+SQL Query: [Data Analysis](https://github.com/discobuggie/Avocado-Dataset-Analysis/blob/main/3.%20Data_analysis.sql)  
 Data Visualization: [Tableau](https://public.tableau.com/views/AvocadoMarketTrendAnalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)  
 
 The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau.
