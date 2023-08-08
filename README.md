@@ -16,11 +16,12 @@ Data Visualization: [Tableau](https://public.tableau.com/views/AvocadoMarketTren
 It is a well known fact that Millenials LOVE Avocado Toast. It's also a well known fact that all Millenials live in their parents basements. Clearly, they aren't buying home because they are buying too much Avocado Toast! But maybe there's hope… if a Millenial could find a city with cheap avocados, they could live out the Millenial American Dream. The dataset contains intriguing variables, including the average price, total sales volume, quantity of bags sold, and avocado type. Upon examining these columns, I found myself pondering a couple of questions to explore further. Firstly, I wondered if the recent trend of millennials' admiration for 'avocado toast' has <strong>contributed to a surge in the total volume of avocado sale</strong>. Additionally, I was curious about the <strong>price trends</strong>., considering that avocados have transformed from the not-so-appealing green smoothie of childhood to an Instagram-worthy meal. Uncovering the answers to these questions could shed light on the impact of changing perceptions and preferences surrounding avocados.
 
 <h3>Analysis Questions</h3>  
-&nbsp;1. Which is the best city for millenials to have their avocado toast AND buy a home?  
-&nbsp;2. Which type of Avocados are more in demand (Conventional or Organic)?  
-&nbsp;3. What are TOP 5 regions where Average price are very high?
-&nbsp;4. What are TOP 5 regions where Average consumption is very high?  
-&nbsp;5. In which year and for which region was the Average price the highest?  
+
+&nbsp;1.  Which type of Avocados are more in demand (Conventional or Organic)?  
+&nbsp;2.  What are TOP 5 regions where Average price are very high?  
+&nbsp;3.  What are TOP 5 regions where Average consumption is very high?  
+&nbsp;4.  In which year and for which region was the Average price the highest?  
+&nbsp;5.  Which is the best city for millenials to have their avocado toast AND buy a home?
 
 
 
@@ -90,7 +91,7 @@ around $1.52.
 ![prices vs consumption (1) copy](https://github.com/discobuggie/Avocado-Dataset-Analysis/assets/108239917/91fcdb83-412f-4dea-b008-d3c109d30725) ![prices vs consumption (1)](https://github.com/discobuggie/Avocado-Dataset-Analysis/assets/108239917/dab7d994-dd64-409c-9d4a-8167b4d24cd0)  
 Amidst these dynamics, Houston emerges as an attractive destination for avocado enthusiasts seeking cost-effective indulgence.
 
-&nbsp;Q. 4. In which year and for which region was the Average price the highest?  
+&nbsp;Q. 4 & 5. In which year and for which region was the Average price the highest, and which is the best city for millenials to have their avocado toast AND buy a home??  
 The pink represents the year 2017 and is moslty the last dot to appear in every year when describing average prices. It appears that Avocado prices experienced a significant surge due to heightened demand in the San Francisco region during the year 2017. This trend is widely acknowledged and can be verified through a quick Google search.
 ![Avg prices by Region](https://github.com/discobuggie/Avocado-Dataset-Analysis/assets/108239917/b1890aaa-25a7-4486-842d-5bdb0c03a124)
 
